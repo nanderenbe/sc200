@@ -100,3 +100,42 @@ Analyst performs remediation.**
     Defender for Identity
 Defender for Cloud Apps
 ----
+
+
+## Microsoft Secure Score
+Microsoft Secure Score is a measurement of your organization's security posture.
+
+- A score showing your current security posture
+- Improvement actions to increase security
+- Recommendations prioritized by security impact
+
+Common actions: 
+- Enable MFA
+- Configure Conditional Access
+- Enable Microsoft Defender features
+- Protect privileged accounts
+- Reduce attack surface
+- Enable device protection
+----
+## Reports
+
+| Report                   | Purpose                  |
+| ------------------------ | ------------------------ |
+| Secure Score             | Security posture         |
+| Threat Protection        | Attack and alert trends  |
+| Vulnerability Management | Weaknesses and patches   |
+| Device Health            | Device protection status |
+| Email & Collaboration    | Phishing, spam, malware  |
+
+----
+
+## Email alerts
+
+Email notifications are mainly used to notify about: 
+- Alerts (e.g. Malware detected)
+- Incidents
+- Vulnerabilities
+- Service/health issues (e.g. sensor health problems, device reporting issues)
+
+----
+
