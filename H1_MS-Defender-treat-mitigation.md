@@ -139,3 +139,34 @@ Email notifications are mainly used to notify about:
 
 ----
 
+# Microsoft Defender for Office 365
+
+Most important features: 
+
+## Safe attachments
+
+- Checks email attachments in a secure sandbox before delivery.
+
+Purpose: Block malware hidden in attachments.
+
+## Safe links
+
+- Scans URLs and checks them when users click them.
+
+Purpose: Protect against malicious websites and phishing links.
+
+## Anti-Phishing Protection
+
+Detects: 
+
+- Phishing emails
+- Spoofing attacks
+- Impersonation attacks
+  
+Purpose: Prevent credential theft.
+
+## Anti-Malware Protection
+
+- Scans emails and attachments for malware.
+
+Purpose: Prevent malware delivery through email.
