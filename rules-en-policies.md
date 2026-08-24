@@ -2,13 +2,7 @@
 # SENTINEL
 
 ## Analytics rule
-## Automation rules
-## Fusion rules
-## NRT rules
-## Threat Intelligence rules
-## ML behavior analytics / anomaly rules
-## Bepalen welke data wordt verzameld en hoe
-## Proactief zoeken naar threats
+
 
 
 --- 
